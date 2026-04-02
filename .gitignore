@@ -4,3 +4,4 @@ passwords.txt
 node_modules/
 !imp.log
 about.html
+readme.txt
