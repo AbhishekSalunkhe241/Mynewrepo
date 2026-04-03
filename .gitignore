@@ -4,4 +4,8 @@ passwords.txt
 node_modules/
 !imp.log
 about.html
+index.html
+bug.fix
 readme.txt
+hello.py
+
